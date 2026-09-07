@@ -92,13 +92,7 @@ psicologo-plantas/
 │   ├── Diagnostico.jl
 │   ├── Estadisticas.jl
 │   └── Juego.jl
-│
-└── test/
-    ├── runtests.jl
-    ├── test_plantas.jl
-    ├── test_terapia.jl
-    ├── test_diagnostico.jl
-    └── test_estadisticas.jl
+
 ```
 
 ## Ejecución
@@ -113,12 +107,6 @@ Iniciar el juego:
 
 ```bash
 julia --project=. -e 'using PsicologoPlantas; iniciar_juego()'
-```
-
-## Tests
-
-```bash
-julia --project=. -e 'using Pkg; Pkg.test()'
 ```
 
 Las pruebas cubren:
