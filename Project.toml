@@ -1,0 +1,7 @@
+name = "PsicologoPlantas"
+uuid = "a3f2e6d1-9b4c-4e2a-8f7d-1c6b5a9e2d34"
+authors = ["Estudiante <estudiante@ejemplo.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
