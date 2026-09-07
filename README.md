@@ -162,9 +162,12 @@ Diagnóstico de Spike:
 ```
 
 
-# Link del Repositoe¿rio
+# Link del Repositorio
 https://github.com/isabellacruzq-lgtm/Psicologo-Plantas/
 
+# Link Actividad Alcance y Encadenamiento
+https://github.com/EthanLopz/Alcance
+https://github.com/valentinaortizm-sketch/TAREA
 
 ## Conclusión
 
