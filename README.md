@@ -1,11 +1,11 @@
-# 🌱 Psicólogo de Plantas (PsicoBotánica)
+# Psicólogo de Plantas (PsicoBotánica)
 
 Aplicación de consola escrita en Julia donde el usuario interpreta a un
 psicólogo de plantas: puede ver a sus pacientes (plantas con personalidades
 y problemas ficticios), atenderlas con acciones terapéuticas, diagnosticarlas
 y revisar estadísticas generales del consultorio.
 
-> ⚠️ Los diagnósticos y problemas de este proyecto son completamente
+> Los diagnósticos y problemas de este proyecto son completamente
 > ficticios y con fines académicos y de entretenimiento. No representan
 > diagnósticos médicos ni psicológicos reales.
 
@@ -136,7 +136,7 @@ Las pruebas cubren:
 
 ```
 =================================
-      🌱 PSICÓLOGO DE PLANTAS
+     PSICÓLOGO DE PLANTAS
 =================================
 
 1. Ver plantas
@@ -172,6 +172,11 @@ Seleccione una planta: 1
 Diagnóstico de Spike:
 - Soledad Botánica
 ```
+
+
+# Link del Repositoe¿rio
+https://github.com/isabellacruzq-lgtm/Psicologo-Plantas/
+
 
 ## Conclusión
 
